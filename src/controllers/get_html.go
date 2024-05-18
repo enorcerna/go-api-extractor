@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/enorcerna/go-api-invest/src/services"
+	"github.com/enorcerna/go-api-extractor/src/services"
 	"github.com/labstack/echo/v4"
 )
 

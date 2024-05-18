@@ -1,6 +1,6 @@
 package main
 
-import "github.com/enorcerna/go-api-invest/src/routes"
+import "github.com/enorcerna/go-api-extractor/src/routes"
 
 func main() {
 	routes.Router()

@@ -26,8 +26,8 @@ To install and run the Web Data Extractor API, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/web-data-extractor.git
-    cd web-data-extractor
+    git clone github.com/enorcerna/go-api-extractor.git
+    cd go-api-extractor
     ```
 
 2. **Install dependencies:**
@@ -38,12 +38,12 @@ To install and run the Web Data Extractor API, follow these steps:
 
 3. **Build the application:**
     ```bash
-    go build -o web-data-extractor
+    go build -o go-api-extractor
     ```
 
 4. **Run the application:**
     ```bash
-    ./web-data-extractor
+    ./go-api-extractor
     ```
 
 ## Usage

@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	ctr "github.com/enorcerna/go-api-invest/src/controllers"
+	ctr "github.com/enorcerna/go-api-extractor/src/controllers"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 )
