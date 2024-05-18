@@ -1,0 +1,45 @@
+# files temporal
+/.tmp
+.tmp
+# Binários compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Diretórios de binários
+bin/
+out/
+
+# Diretório de dependências
+vendor/
+
+# Diretórios de módulos
+pkg/
+Godeps/
+
+# Arquivos de cache
+*.log
+*.cache
+*.tmp
+*.swp
+
+# Configurações específicas do IDE
+.vscode/
+.idea/
+*.iml
+
+# Cobertura de testes
+coverage.out
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos gerados pelo comando 'go mod'
+go.sum
